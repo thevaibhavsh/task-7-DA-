@@ -17,7 +17,10 @@
 - Displays the result using `print()` and a bar chart (`matplotlib`)
 - Saves chart as `sales_chart.png`
 
+## Output
+![Output](https://github.com/user-attachments/assets/baf7e401-565f-4620-8940-ccf3cf13dd7a)
+
 ## Learning Outcomes
 - Writing SQL queries inside Python
 - Importing SQL results to pandas
-- Visualizing data with matplotli
+- Visualizing data with matplotlib
